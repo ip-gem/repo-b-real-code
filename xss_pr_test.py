@@ -1,0 +1,1 @@
+x = "<img src=x onerror=alert(document.domain)>"  # xss test comment <script>alert(2)</script>
