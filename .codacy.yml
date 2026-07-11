@@ -1,5 +1,5 @@
 ---
 engines:
   pylintpython3:
-    base_sub_dir: "../../../../../../"
+    base_sub_dir: ".."
     exclude_paths: []
