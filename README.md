@@ -1,3 +1,3 @@
-# Test
-<img src=x onerror=alert(7)>
-[click](javascript:alert(8))
+# repo-b-real-code
+
+Test repository for Codacy bug bounty research.
